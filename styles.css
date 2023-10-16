@@ -9,9 +9,6 @@ h1{
 .assign{
     background-color: #FFFFF0;
     border: black;
-    padding: 10px;
-    display: flex;
 }
 .assign img {
-    padding: 10px;
 }
