@@ -1,0 +1,17 @@
+body{
+    background-color: #FFFFF0;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #73000A;
+    text-align:center;
+}
+.assign{
+    background-color: #FFFFF0;
+    border: black;
+    padding: 10px;
+    display: flex;
+}
+.assign img {
+    padding: 10px;
+}
