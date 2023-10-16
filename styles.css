@@ -12,3 +12,7 @@ h1{
     padding: 10px;
     display: flex;
 }
+.assign img {
+    width: 200 px;
+    padding: 10px;
+}
