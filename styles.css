@@ -11,7 +11,8 @@ h1{
     padding: 10px;
     margin: 10px;
     background: #d3d0b1;
-    border: rounded corners;
+    border-style: solid;
+    border-color: #000000;
 }
 .assign img {
     width:200px;
