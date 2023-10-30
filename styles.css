@@ -5,6 +5,11 @@ body{
 h1{
     color: #031926;
     text-align: center;
+    display: flex;
+    margin: 2.5px;
+    background: #9DBEBB;
+    border-style: solid;
+    border-color: #468189;
 }
 .assign{
     display: flex;
