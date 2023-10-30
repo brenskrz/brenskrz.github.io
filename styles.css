@@ -1,18 +1,18 @@
 body{
-    background-color: #355C7D;
+    background-color: #031926;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1{
-    color: #6C5B7B;
+    color: #468189;
     text-align: center;
 }
 .assign{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: #6C5B7B;
+    background: #F4E9CD;
     border-style: solid;
-    border-color: #000000;
+    border-color: #77ACA2;
     box-shadow:#716868;
 }
 .assign img {
@@ -21,7 +21,7 @@ h1{
 }
 #rcorners2 {
   border-radius: 25px;
-  border: 2px solid #73AD21;
+  border: 2px solid #77ACA2;
   padding: 20px;
   width: 200px;
   height: 150px;
