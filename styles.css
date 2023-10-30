@@ -6,7 +6,10 @@ h1{
     color: #031926;
     text-align: center;
     display: center;
-    margin: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     background: #9DBEBB;
     border-style: solid;
     border-color: #468189;
