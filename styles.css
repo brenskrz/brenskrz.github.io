@@ -1,16 +1,16 @@
 body{
-    background-color: #FFFFF0;
+    background-color: #F8B195;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1{
-    color: #73000A;
+    color: #6C5B7B;
     text-align: center;
 }
 .assign{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: #d3d0b1;
+    background: #355C7D;
     border-style: solid;
     border-color: #000000;
     box-shadow:#716868;
