@@ -21,9 +21,9 @@ h1{
     border-color: #031926;
     box-shadow:#716868;
 }
-a:hover {
+/* a:hover {
     text-decoration: none;
-    color: #468189;
+    color: #468189; */
 }
 .assign img {
     width:20px;
