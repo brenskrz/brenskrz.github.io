@@ -22,7 +22,7 @@ h1{
     box-shadow:#716868;
 }
 a:hover {
-    text-decoration: none;
+    text-decoration: border;
     color: #468189;
     border-style: solid;
     border-color: #468189;
