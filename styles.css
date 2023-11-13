@@ -20,7 +20,11 @@ h1{
     border-style: solid;
     border-color: #031926;
     box-shadow:#716868;
+    border-radius: 20px;
 }
+a:hover {
+    text-decoration: none;
+    color: #031926;
 .assign img {
     width:200px;
     padding: 10px;
