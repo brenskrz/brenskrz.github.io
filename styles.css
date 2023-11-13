@@ -6,8 +6,8 @@ h1{
     color: #031926;
     text-align: center;
     display: center;
-    margin-left: 625px;
-    margin-right: 625px;
+/*     margin-left: 625px;
+    margin-right: 625px; */
     background: #9DBEBB;
     border-style: solid;
     border-color: #468189;
@@ -26,7 +26,7 @@ a:hover {
     color: #468189;
 }
 .assign img {
-    width:200px;
+    width: 200px;
     padding: 10px;
 }
 
