@@ -1,25 +1,38 @@
 body{
     background-color: #468189;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-wrap: wrap;
 }
 h1{
     color: #031926;
     text-align: center;
-    display: center;
-    margin-left: 625px;
-    margin-right: 625px;
+    width: 100%;
+    display: block;
     background: #9DBEBB;
     border-style: solid;
     border-color: #468189;
 }
+h1:hover {
+    color: #468189;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+a {
+    text-decoration: none;
+    color: black:
+}
 .assign{
-    display: flex;
+    display: block;
     padding: 10px;
     margin: 10px;
     background: #F4E9CD;
     border-style: solid;
     border-color: #031926;
     box-shadow:#716868;
+    box-shadow: 8px 8px brown;
+    width: 200px;
 }
 a:hover {
     text-decoration: border;
@@ -30,5 +43,6 @@ a:hover {
 .assign img {
     width: 200px;
     padding: 10px;
+    border: 2px dotted ivory;
 }
 
