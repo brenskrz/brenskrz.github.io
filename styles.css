@@ -30,7 +30,7 @@ a {
     background: #F4E9CD;
     border-style: solid;
     border-color: #031926;
-    box-shadow:#716868;
+    box-shadow:#468189;
     box-shadow: 8px 8px brown;
     width: 200px;
 }
@@ -43,6 +43,6 @@ a:hover {
 .assign img {
     width: 200px;
     padding: 10px;
-    border: 2px dotted ivory;
+    border: 2px solid #468189;
 }
 
