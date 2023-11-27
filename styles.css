@@ -32,7 +32,7 @@ a {
     border-style: solid;
     border-color: #031926;
     box-shadow:#468189;
-    box-shadow: 8px 8px brown;
+    box-shadow: 8px 8px #468189;
     width: 20%;
 }
 a:hover {
